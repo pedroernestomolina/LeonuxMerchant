@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Configuracion>
+  <KeyId>47F7A141-FA02-4854-B84C-793003499BAA</KeyId>
+  <PublicKeyId>d8d1ff0dfcaaee2579abde830e873df2</PublicKeyId>
+  <Terminal>20124709</Terminal>
+  <KeyPinPad></KeyPinPad>
+  <IdUltTransaccion>4527f550-d80c-49d8-96a0-746296df7e0f</IdUltTransaccion>
+  <LoteTransaccion>369</LoteTransaccion>
+  <Pto_Fiscal>0</Pto_Fiscal>
+  <LecturaArchivo></LecturaArchivo>
+  <EscrituraArchivo></EscrituraArchivo>
+</Configuracion>
